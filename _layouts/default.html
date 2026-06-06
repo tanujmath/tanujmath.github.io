@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>
+    {% if page.title %}
+      {{ page.title }} | {{ site.title }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </title>
+
+  <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
+  
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <link rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap">
+
+  <link rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.css">
+
+<script defer
+        src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.js">
+</script>
+
+<script defer
+        src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/contrib/auto-render.min.js"
+        onload="renderMathInElement(document.body,{
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\(', right: '\\)', display: false},
+            {left: '$', right: '$', display: false}
+          ]
+        });">
+</script>
+
+<link rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+  
+</head>
+
+<body>
+
+<header class="site-header">
+
+  <div class="header-inner">
+
+    <div class="site-name">
+      <a href="{{ '/' | relative_url }}">
+        Tanuj Gupta
+      </a>
+    </div>
+
+    <nav class="site-nav">
+
+      <a href="{{ '/' | relative_url }}">about me</a>
+
+      <a href="{{ '/research/' | relative_url }}">
+        research
+      </a>
+
+      <a href="{{ '/teaching/' | relative_url }}">
+        teaching
+      </a>
+
+      <a href="{{ '/misc/' | relative_url }}">
+        misc.
+      </a>
+
+      <button id="theme-toggle" aria-label="Toggle dark mode">
+        <span id="theme-icon">🌙</span>
+      </button>
+
+    </nav>
+
+  </div>
+
+</header>
+
+<main class="content">
+
+  {{ content }}
+
+</main>
+
+<footer class="site-footer">
+
+  <p>
+    © 2026 Tanuj Gupta
+  </p>
+
+  <p>
+    Last updated:
+    {{ site.time | date: "%B %d, %Y" }}
+  </p>
+
+</footer>
+
+<script src="{{ '/assets/js/darkmode.js' | relative_url }}"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+
+<script>
+const lightbox = GLightbox();
+</script>
+
+</body>
+</html>

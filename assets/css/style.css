@@ -120,48 +120,6 @@ h2 {
   transform: scale(1.15);
 }
 
-.theme-switch {
-  width: 38px;
-  height: 22px;
-
-  border-radius: 999px;
-
-  border: 1px solid var(--border);
-
-  background: var(--bg);
-
-  position: relative;
-
-  cursor: pointer;
-
-  padding: 0;
-
-  transition: all 0.2s ease;
-}
-
-.theme-switch::before {
-  content: "";
-
-  width: 16px;
-  height: 16px;
-
-  border-radius: 50%;
-
-  background: var(--text);
-
-  position: absolute;
-
-  left: 2px;
-  top: 2px;
-
-  transition: transform 0.2s ease;
-}
-
-[data-theme="dark"] .theme-switch::before {
-  transform: translateX(16px);
-}
-
-
 .site-footer {
   text-align: center;
   padding: 1.25rem 1rem;

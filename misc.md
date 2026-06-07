@@ -4,7 +4,7 @@ title: Misc
 permalink: /misc/
 ---
 
-# Expository Notes
+# Expositions
 
 - [A proof of Tychonoff's theorem](assets/pdf/tychonoff.pdf)
 - [Hörmander's Theorem in one dimension](assets/pdf/hormander-1d.pdf)

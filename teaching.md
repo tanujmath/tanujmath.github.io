@@ -23,7 +23,7 @@ permalink: /teaching/
 
 - Assisted in the training of incoming Ph.D. students at Texas A&M University in preparation for their teaching assistant responsibilities (Summer 2022).
 
-- Served as a **Teaching Assistant** for Ph.D. Qualifying Examination preparation in Complex Analysis (Summer 2021).
+- Served as a instructor for Ph.D. Qualifying Examination preparation in Complex Analysis (Summer 2021).
 
 - Served as a **Teaching Assistant** for the MSRI (now SLMath) Summer Graduate School *[The $\bar\partial$-Problem in the Twenty First Century](https://www.slmath.org/summer-schools/828)* (June 2018).
 
@@ -31,5 +31,5 @@ permalink: /teaching/
 
 - Mentored four undergraduate students from various departments through the [Directed Reading Program](https://artsci.tamu.edu/mathematics/academics/undergraduate/drp/index.html) at Texas A&M University (2021–2025).
 
-- Served as an instructor and facilitator for the [Texas A&M Math Circle](https://sites.google.com/tamu.edu/tamu-math-circle), an outreach program aimed at fostering mathematical curiosity and problem-solving skills among K–12 students.
+- Served as an instructor and facilitator for the [Texas A&M Math Circle](https://sites.google.com/tamu.edu/tamu-math-circle), an outreach program aimed at fostering mathematical curiosity and problem-solving skills among K–12 students (2021-2023).
 

@@ -4,7 +4,7 @@ title: Misc
 permalink: /misc/
 ---
 
-# Expository Notes
+# Expositions
 
 - [A proof of Tychonoff's theorem](assets/pdf/tychonoff.pdf)
 - [A proof of Laplace expansion of determinants](assets/pdf/laplace.pdf)

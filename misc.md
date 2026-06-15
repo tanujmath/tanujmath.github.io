@@ -4,6 +4,9 @@ title: Misc
 permalink: /misc/
 ---
 
+Coming Soon
+
+<!-- 
 # Expositions
 
 - [A proof of Tychonoff's theorem](assets/pdf/tychonoff.pdf)
@@ -39,4 +42,4 @@ permalink: /misc/
   <img src="/assets/images/2018-Berkley-MSRI(SLMath).jpg">
 </a>
 
-</div>
+</div> -->

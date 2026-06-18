@@ -19,7 +19,7 @@ My research interest lies in function theory of Several Complex Variables, with 
 
 I completed my PhD from [Texas A&M University](https://www.tamu.edu/) in 2025 under the supervision of [Prof. Emil J Straube](https://www.math.tamu.edu/~e-straube/).
 
-Email: tanujgupta17 [at] gmail [dot] com
+Email: tanuj26 [at] tifrbng [dot] res [dot] in
 
 [Click here to download my CV (pdf).](assets/pdf/cv.pdf)
 
